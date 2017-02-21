@@ -1,5 +1,5 @@
 /* @file: isofd3d_gpu_kernel.cu
- * @author: Zhang Xiao
+ * @author: xiaocen
  * @date: 2017.01.13
  */
 #include <cstdio>
